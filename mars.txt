@@ -1,2 +1,4 @@
-dosent' work
-why?																																																																																																																	
+<<<<<<< HEAD
+It has two moons. Mars is covered by red dust.Surface temperature is -143 
+deg C.
+>>>>>>> a406dfab7f1e6d7ef177a344757a1735f049a995
